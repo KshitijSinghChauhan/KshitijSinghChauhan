@@ -9,7 +9,7 @@
 
 - 🔭 I’m currently working on **iOS projects**
 
-- 🌱 I’m currently learning **SwiftUI and flutter.**
+- 🌱 I know **SwiftUI, UIKit, Swift, and its associated frameworks.**
 
 - 💬 Ask me about **iOS development and UIKit**
 
